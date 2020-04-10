@@ -8,11 +8,14 @@ To run the application :
 
 git clone https://github.com/Farah-Oubelkas/Tp_mongodb_app.git
 
-2- run npm install in both AngularApp and NodeJS
+2- run :
+npm install in both AngularApp and NodeJS
 
-3 - run nodemon index.js in the NodeJS directory
+3 - run:
+nodemon index.js in the NodeJS directory
 
-4- run ng serve --open in the AngularApp directory
+4- run in the AngularApp directory
+ng serve --open 
 
 
 NB: Don't forget to modify database URL in db.js, and create two collections : employees and Department
